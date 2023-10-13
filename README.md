@@ -1,2 +1,3 @@
-# gs_prototype_1
-Godot GDScript Prototype 1
+# GDScript Prototype 1
+
+Importing [Mixamo](https://www.mixamo.com/) models and animations to Godot.
