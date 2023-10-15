@@ -10,6 +10,10 @@ config_version=5
 
 [application]
 
-config/name="GDScript Protitype 1"
+config/name="GDScript Prototype 1"
 config/features=PackedStringArray("4.1", "Forward Plus")
 config/icon="res://icon.svg"
+
+[filesystem]
+
+import/fbx/enabled=false
